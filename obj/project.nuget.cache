@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F16pqYDG0dCMrL6PyW8ylUY4c4eYQ9V+Yyctaa8Kmw+A/Y3EocmcqG7MubxwKq0B9JN0QEOZ5bLWRw1jS1K+WA==",
+  "success": true,
+  "projectFilePath": "/Users/cchap14/Desktop/epicodus-jan/c#/MvcApiCall/MvcApiCall.csproj",
+  "expectedPackageFiles": [
+    "/Users/cchap14/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/cchap14/.nuget/packages/restsharp/106.6.10/restsharp.106.6.10.nupkg.sha512"
+  ],
+  "logs": []
+}
